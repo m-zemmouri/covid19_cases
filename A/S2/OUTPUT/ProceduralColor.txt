@@ -1,0 +1,15 @@
+# Color procedural file G:/My Drive/Studies/cases/A/S2/OUTPUT/ProceduralColor.txt
+# 12 points
+# position R G B
+-0.1 0 0 0
+-0.0156442 0 0.5 0
+0 0 0.5 1
+4.67761 0 0.5 1
+4.69325 1 0.5 0
+35.966 1 0.5 0
+35.9816 1 0 1
+223.696 1 0 1
+223.712 1 0 0
+254.984 1 0 0
+255 0 0 0
+255.084 0 0 0

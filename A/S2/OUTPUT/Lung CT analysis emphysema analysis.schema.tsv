@@ -1,0 +1,5 @@
+columnName	type	componentNames
+Lung areas	string	
+Total volume (ml)	double	
+Emphysema (ml)	double	
+Emphysema (%)	double	

@@ -1,0 +1,1 @@
+{'thresholdBullaLower': -630.0, 'thresholdBullaInflated': -630.0, 'thresholdInflatedInfiltrated': -600.0, 'thresholdInfiltratedCollapsed': -400.0, 'thresholdCollapsedVessels': 800.0, 'thresholdVesselsUpper': 1000.0}

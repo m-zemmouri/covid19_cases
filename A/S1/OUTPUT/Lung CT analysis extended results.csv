@@ -1,0 +1,4 @@
+"Lung area","Total (ml)","Inflated (ml)","Inflated (%)","Emphysema (ml)","Emphysema (%)","Infiltrated (ml)","Infiltrated (%)","Collapsed (ml)","Collapsed (%)","Affected (ml)","Affected (%)"
+"Total lungs",5926.75,4963.73,84,3.98142,0.1,761.123,12.8,197.909,3.3,959.032,16
+"Right lung",2670.76,2171.48,81,2.11942,0.1,389.038,14.6,110.236,4.1,499.274,19
+"Left lung",3255.99,2796.49,86,1.862,0.1,372.085,11.4,87.6729,2.7,459.758,14

@@ -1,0 +1,11 @@
+Segment	Volume [cm3]	Minimum [hnsf'U]	Maximum [hnsf'U]	Mean [hnsf'U]	Median [hnsf'U]	Standard Deviation [hnsf'U]	MinThr	MaxThr
+Emphysema right	0.331284	-993	-951	-960.991	-960	8.74916	-1050	-950
+Inflated right	1158.26	-950	-751	-808.074	-808	33.8149	-950	-750
+Infiltration right	876.058	-750	-401	-655.447	-686	86.6103	-750	-400
+Collapsed right	87.6783	-400	-1	-260.927	-288	109.269	-400	0
+Vessels right	23.0837	-126	348	123.734	126	74.2706	0	3000
+Emphysema left	0.226592	-997	-951	-959.646	-959	8.80075	-1050	-950
+Inflated left	1819.14	-950	-751	-808.692	-804	37.3303	-950	-750
+Infiltration left	798.997	-750	-401	-665.322	-699	85.6134	-750	-400
+Collapsed left	86.1237	-400	-1	-251.093	-275	110.627	-400	0
+Vessels left	27.1337	-180	339	126.052	133	72.2744	0	3000
